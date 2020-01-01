@@ -2,15 +2,15 @@
   "posts": [
     { "id": 1, 
      "title": "Madagascar Centella Asiatica Toner",
-     "information" : "Main Ingredients Centella Asiatica Extract, PHA (gluconolactone), Hyaluronic acid Product Introduction A Toning Toner that contains Centella Asiatica extract from the unsullied island of Madagascar, and PHA, which helps clean off dead skin cells, for a more hydrated and clean skin Product Characteristics The PHA, noted for its compatibility with sensitive skin, softens and brightens dull skin by exfoliating dead skin cells, while the high concentration level of Centella Asiatica and Hyaluronic acid help to calm and hydrate the skin. How to Use After cleansing, use a generous amount to gently apply to face and lightly massage for absorption."
+     "information" : "Bahan Utama Ekstrak Centellasam Hyaluronic Pendahuluan Produk Toning Toner yang mengandung ekstrak Centella Asiatica dari pulau Madagaskar yang tidak ternoda, dan PHA, yang membantu membersihkan sel-sel kulit mati, untuk kulit yang lebih terhidrasi dan membersihkan."
     },
     { "id": 2, 
      "title": "NACIFIC Real Floral Toner (Rose)",
-     "information" : "CLAIM TO FAME: A hydrating toner with floating rose petals that soothe, refresh, and nourish skin" 
+     "information" : "Toner hydrating diformulasi dengan 92% air bunga mawar yang menenangkan, menyegarkan, menyehatkan kulit, membersihkan pori-pori dari residu makeup, nyaman untuk meminimalkan iritasi dan bebas dari bahan berbahaya." 
     },
     { "id": 3, 
      "title": "COSRX AHA/BHA Clarifying Treatment Toner",
-     "information" : "CosRX's AHA/BHA Clarifying Treatment Toner is used as the first step after cleansing.  This toner is formulated with natural AHA - 10% Apple Fruit Water, and natural BHA - 10% White Willow Water as well as mineral water as a gentle exfoliant and great prep step for the rest of your skincare routine."  
+     "information" : "Toner ini diformulasikan dengan AHA alami - 10% Apple Fruit Water, dan BHA alami - 10% White Willow Water serta air mineral .  Ini akan membantu untuk mencegah komedo (whiteheads) dan jerawat secara keseluruhan dan  menjaga kelembaban. Cocok untuk semua jenis kulit."  
     },
     { "id": 4, 
      "title": "BIO-ESSENCE Bio-White Advanced Whitening Serum",
