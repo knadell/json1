@@ -11,7 +11,37 @@
     { "id": 3, 
      "title": "COSRX AHA/BHA Clarifying Treatment Toner",
      "information" : "CosRX's AHA/BHA Clarifying Treatment Toner is used as the first step after cleansing.  This toner is formulated with natural AHA - 10% Apple Fruit Water, and natural BHA - 10% White Willow Water as well as mineral water as a gentle exfoliant and great prep step for the rest of your skincare routine."  
+    },
+    { "id": 4, 
+     "title": "BIO-ESSENCE Bio-White Advanced Whitening Serum",
+     "information" : "Dengan ekstrak tanaka tree bark, camelia ekstrak, arbutin, white plus complex di formulasi kan untuk membuat wajah dan mengurangi bintik hitam segaligus cerah merona"  
     }
+    { "id": 5, 
+     "title": "AVOSKIN Miraculous Refining Serum",
+     "information" : "Kombinasi AHA-BHA-NIACINAMIDE dari ekstrak natural bekerja secara efektif sebagai eksfoliator untuk membuat kulit lebih bersih dan cerah. "  
+    },
+    { "id": 6, 
+     "title": "BENTON Snail Bee Ultimate Serum",
+     "information" : "Benton's Snail Bee Ultimate Serum adalah serum multitasking yang diperkaya dengan Snail Secretion, Venom Bee, dan Air Daun Pohon Teh. Membantu memberi nutrisi, menenangkan, dan menjaga kulit tetap kenyal."  
+    },
+    { "id": 7, 
+     "title": "CLINIQUE All About Eyes Serum De-Puffing Eye Massage",
+     "information" : "Rollerball yang memijat bagian bawah mata untuk mendinginkan dan memberi efek menyegarkan. Di pakai secara teratur agar mencerahkan dan menyegarkan area mata."  
+    }
+    { "id": 8, 
+     "title": "DIOR Capture Youth Glow Booster Age-Delay Illuminating Serum",
+     "information" : "Diperkaya dengan ekstrak iris antioksidan, serum ini memiliki tekstur ringan yang menawarkan cahaya alami dan memberi energi pada kulit, membantunya melawan agresi (stres, kelelahan, dan jet lag)."  
+    }
+    { "id": 9, 
+     "title": "Innisfree The Green Tea Seed Serum",
+     "information" : "Serum pelembab dengan teh hijau Jeju organik dan biji teh hijau yang melembabkan kulit Anda dari dalam."  
+    }
+    { "id": 10, 
+     "title": "LANEIGE Clear C Peeling SERUM",
+     "information" : "Serum dan masker Clear-C mengandung asam malat AHA (gula maple, tebu, jeruk, lemon, dan billberry), sehingga mereka dengan lembut mengangkat sel-sel kulit mati yang terkelupas dan membuat lapisan cornified menjadi sehat dan elastis."  
+    }
+   
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
