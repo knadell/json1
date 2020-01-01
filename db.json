@@ -27,21 +27,19 @@
     { "id": 7, 
      "title": "CLINIQUE All About Eyes Serum De-Puffing Eye Massage",
      "information" : "Rollerball yang memijat bagian bawah mata untuk mendinginkan dan memberi efek menyegarkan. Di pakai secara teratur agar mencerahkan dan menyegarkan area mata."  
-    }
+    },
     { "id": 8, 
      "title": "DIOR Capture Youth Glow Booster Age-Delay Illuminating Serum",
      "information" : "Diperkaya dengan ekstrak iris antioksidan, serum ini memiliki tekstur ringan yang menawarkan cahaya alami dan memberi energi pada kulit, membantunya melawan agresi (stres, kelelahan, dan jet lag)."  
-    }
+    },
     { "id": 9, 
      "title": "Innisfree The Green Tea Seed Serum",
      "information" : "Serum pelembab dengan teh hijau Jeju organik dan biji teh hijau yang melembabkan kulit Anda dari dalam."  
-    }
+    },
     { "id": 10, 
      "title": "LANEIGE Clear C Peeling SERUM",
      "information" : "Serum dan masker Clear-C mengandung asam malat AHA (gula maple, tebu, jeruk, lemon, dan billberry), sehingga mereka dengan lembut mengangkat sel-sel kulit mati yang terkelupas dan membuat lapisan cornified menjadi sehat dan elastis."  
-    }
-   
-    
+    }  
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
