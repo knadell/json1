@@ -1,16 +1,18 @@
 {
   "posts": [
     { "id": 1, 
-     "title": "Post 1",
-     "body" : "asdfghjkl"
+     "title": "Madagascar Centella Asiatica Toner",
+     "information" : "Main Ingredients Centella Asiatica Extract, PHA (gluconolactone), Hyaluronic acid Product Introduction A Toning Toner that contains Centella Asiatica extract from the unsullied island of Madagascar, and PHA, which helps clean off dead skin cells, for a more hydrated and clean skin Product Characteristics The PHA, noted for its compatibility with sensitive skin, softens and brightens dull skin by exfoliating dead skin cells, while the high concentration level of Centella Asiatica and Hyaluronic acid help to calm and hydrate the skin. How to Use After cleansing, use a generous amount to gently apply to face and lightly massage for absorption."
     },
     { "id": 2, 
-     "title": "Post 2",
-     "body" : "lkjhgfds" 
+     "title": "NACIFIC Real Floral Toner (Rose)",
+     "information" : "CLAIM TO FAME: A hydrating toner with floating rose petals that soothe, refresh, and nourish skin" 
+              "FAST FACTS: Formulated with 92% rose flower water; moisturizes to restore softness and bounce to skin; calms and comforts to minimize irritation and inflammation; purifies pores as it cleans makeup residue; boosts clarity and vitality for a clearer, brighter look; free from hazardous ingredients"
     },
     { "id": 3, 
-     "title": "Post 3",
-     "body" : "test123" }
+     "title": "COSRX AHA/BHA Clarifying Treatment Toner",
+     "body" : "CosRX's AHA/BHA Clarifying Treatment Toner is used as the first step after cleansing.  This toner is formulated with natural AHA - 10% Apple Fruit Water, and natural BHA - 10% White Willow Water as well as mineral water as a gentle exfoliant and great prep step for the rest of your skincare routine."  
+              "This will help to gently prevent blackheads, whiteheads and overall acne and blemishes with it's natural ingredients as well as maintaining moisture with its mineral water content and will help prep your skin for your skincare routine to follow. Suitable for all skin types." }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
